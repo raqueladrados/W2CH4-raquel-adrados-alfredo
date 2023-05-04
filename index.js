@@ -6,3 +6,5 @@ const length = (array) => {
 
   return i;
 };
+
+export default length;
